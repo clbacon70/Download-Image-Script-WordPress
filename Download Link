@@ -1,0 +1,1 @@
+<a class="at-download-image" href="<?php the_post_thumbnail_url( 'full' ); ?>">Download Image</a>
